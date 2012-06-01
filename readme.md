@@ -6,7 +6,7 @@ Inspired by [How I Cheated Mozilla's New HTML5 Game - Browser Quest](http://www.
 [Click here for the Chrome extension.](https://github.com/downloads/bootstraponline/bossmode/bossmode.crx)
 
 ##Instructions
-- Enter the [BrowserQuest game](browserquest.mozilla.org).
+- Enter the [BrowserQuest game](http://browserquest.mozilla.org/).
 - Select a sprite from the extension list, for example "boss".
 - Refresh the page and enter the game as the new sprite!
 
@@ -16,6 +16,3 @@ Inspired by [How I Cheated Mozilla's New HTML5 Game - Browser Quest](http://www.
 
 ## Source
 The code is open source and based on Google's [set page color example](http://code.google.com/chrome/extensions/examples/api/browserAction/set_page_color.zip) extension. The license is the same as the set page color example.
-
-
-#### Update: It looks like the official BrowserQuest page is down.
