@@ -6,8 +6,8 @@ Inspired by [How I Cheated Mozilla's New HTML5 Game - Browser Quest](http://www.
 [Click here for the Chrome extension.](https://github.com/downloads/bootstraponline/bossmode/bossmode.crx)
 
 ##Instructions
-- Enter the [BrowserQuest game](http://browserquest.mozilla.org/).
-- Select a sprite from the extension list, for example "boss".
+- Enter the [BrowserQuest game](http://browserquest.mozilla.org/)
+- Select a sprite from the extension list, for example "boss"
 - Refresh the page and enter the game as the new sprite!
 
 ##Back To Normal
