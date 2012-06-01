@@ -18,4 +18,4 @@ Inspired by [How I Cheated Mozilla's New HTML5 Game - Browser Quest](http://www.
 The code is open source and based on Google's [set page color example](http://code.google.com/chrome/extensions/examples/api/browserAction/set_page_color.zip) extension. The license is the same as the set page color example.
 
 
-#### Note: It looks like the official BrowserQuest page is down.
+#### Update: It looks like the official BrowserQuest page is down.
